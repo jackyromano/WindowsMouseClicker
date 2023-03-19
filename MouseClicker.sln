@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "MouseClicker", "MouseClicker.vcxproj", "{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "MouseClickerSetup", "MouseClickerSetup\MouseClickerSetup.vdproj", "{9CF9F0EC-F1BA-4443-AC44-DDB1F495CD43}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Debug|x64.ActiveCfg = Debug|x64
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Debug|x64.Build.0 = Debug|x64
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Debug|x86.ActiveCfg = Debug|Win32
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Debug|x86.Build.0 = Debug|Win32
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Release|x64.ActiveCfg = Release|x64
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Release|x64.Build.0 = Release|x64
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Release|x86.ActiveCfg = Release|Win32
+		{EC149680-7BC3-4B9B-8BB5-4442F3B96BF8}.Release|x86.Build.0 = Release|Win32
+		{9CF9F0EC-F1BA-4443-AC44-DDB1F495CD43}.Debug|x64.ActiveCfg = Debug
+		{9CF9F0EC-F1BA-4443-AC44-DDB1F495CD43}.Debug|x86.ActiveCfg = Debug
+		{9CF9F0EC-F1BA-4443-AC44-DDB1F495CD43}.Release|x64.ActiveCfg = Release
+		{9CF9F0EC-F1BA-4443-AC44-DDB1F495CD43}.Release|x86.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {271E7312-12C6-4261-B084-00EB42FBCFF2}
+	EndGlobalSection
+EndGlobal
